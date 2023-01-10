@@ -1,0 +1,27 @@
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\bin\Debug\DirectorioTelefonico.exe.config
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\bin\Debug\DirectorioTelefonico.exe
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\bin\Debug\DirectorioTelefonico.pdb
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\bin\Debug\MySql.Data.DLL
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.csproj.AssemblyReference.cache
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.Form1.resources
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.Properties.Resources.resources
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.csproj.GenerateResource.cache
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.csproj.CoreCompileInputs.cache
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.csproj.CopyComplete
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.exe
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.pdb
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\bin\Debug\DirectorioTelefonico.exe.config
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\bin\Debug\DirectorioTelefonico.exe
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\bin\Debug\DirectorioTelefonico.pdb
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.csproj.AssemblyReference.cache
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.Form1.resources
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.NuevoEmpleado.resources
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.Properties.Resources.resources
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.csproj.GenerateResource.cache
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.csproj.CoreCompileInputs.cache
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.csproj.CopyComplete
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.exe
+D:\Escritorio\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.pdb
+C:\Users\Heiner Sepulveda\source\repos\DirectorioTelefonico\DirectorioTelefonico\obj\Debug\DirectorioTelefonico.NuevoEmpleado.resources
